@@ -10,7 +10,7 @@ public class Calculadora {
         int numero2;
                     /* Definimos tambien los resultados de las diferentes 
                        operaciones como variables. */
-        int suma;
+        int sumaa;
         
         int resta;
         
