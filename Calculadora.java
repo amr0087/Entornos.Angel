@@ -36,7 +36,7 @@ public class Calculadora {
         
         rest = numero % numero2;
         //Mostramos por pantalla los diferentes resultados..
-        System.out.println("El resultado de la suma es: " + suma);
+        System.out.println("El resultado de la sumAAaAA es: " + suma);
         
         System.out.println("El resultado de la resta es: " + resta);
         
