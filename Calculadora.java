@@ -10,7 +10,7 @@ public class Calculadora {
         int numero2;
                     /* Definimos tambien los resultados de las diferentes 
                        operaciones como variables. */
-        int suma;
+        int sumando;
         
         int resta;
         
@@ -26,7 +26,7 @@ public class Calculadora {
             System.out.println("Introduzca el segundo valor");
         numero2 = leer.nextInt();
         //Realizamos todas las operaciones con usando las diferentes variables
-        suma = numero + numero2;
+        sumando = numero + numero2;
         
         resta = numero - numero2;
         
@@ -36,7 +36,7 @@ public class Calculadora {
         
         rest = numero % numero2;
         //Mostramos por pantalla los diferentes resultados..
-        System.out.println("El resultado de la sumAAaAA es: " + suma);
+        System.out.println("El resultado de la suma es: " + suma);
         
         System.out.println("El resultado de la resta es: " + resta);
         
